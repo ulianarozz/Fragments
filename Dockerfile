@@ -1,7 +1,7 @@
 # Stage 0: Install node +  dependencies
 FROM node:16.14@sha256:fd86131ddf8e0faa8ba7a3e49b6bf571745946e663e4065f3bff0a07204c1dde AS dependencies
 
-LABEL maintainer="Vishisht Gupta <vagupta1@myseneca.ca>"
+LABEL maintainer="Uliana Rozzhyvaikina"
 LABEL description="Fragments node.js microservice"
 
 # We default to use port 8080 in our service

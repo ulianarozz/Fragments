@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vishisht19/fragments.git"
+    "url": "git+https://github.com/ulianarozz/fragments.git"
   },
-  "author": "Vishisht Gupta",
+  "author": "Uliana Rozzhyvaikina",
   "license": "UNLICENSED",
   "devDependencies": {
     "cross-env": "^7.0.3",

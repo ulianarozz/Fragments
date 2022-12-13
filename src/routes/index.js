@@ -29,7 +29,7 @@ router.get('/', (req, res) => {
   let data = {
     author,
     // Use your own GitHub URL for this...
-    githubUrl: 'https://github.com/vishisht19/fragments',
+    githubUrl: 'https://github.com/ulianarozz/fragments',
     version,
   };
   //createSuccessResponse(data);
